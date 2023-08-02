@@ -2,8 +2,6 @@
 Assignment 
 import requests
 
-//API_URL = "https://api.example.com/weather"  # Replace with the actual API URL
-
 def get_weather_data(date):
     params = {
         "location": "London",
